@@ -1,0 +1,38 @@
+/* CSS GOES HERE */
+.title {
+     font-size: large;
+     padding: 20px;
+     margin: 2px;
+     border: 7px outset rgb(105, 17, 17);
+     background-color: lightblue;
+     text-align: center;
+}
+.flex-container {
+     font-size: medium;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     padding: 30px;
+     background:  rgb(210, 180, 140);
+}
+.temperature {
+     padding-top: 40px;
+     margin-top: 60px;
+  
+}
+
+.length{
+     margin-top: 60px;
+     margin-bottom: 60px;
+}
+
+.weight {
+     margin-top: 60px;
+     margin-bottom: 30px;;
+}
+
+.time {
+     margin-top: 30px;
+     margin-bottom: 60px;
+}
+
